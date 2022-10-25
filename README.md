@@ -1,11 +1,5 @@
-### Hi there 👋
+### Hello 👋
 
-<!--
-**amteater/amteater** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am currently enrolled in programming courses and currently learning abut computing fundamentals! 
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Computing Fundamentals 
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I enjoy building Gundam Model Kits 
--->
+- A fun fact about me is that in my free time I enjoy nuilding Gundam Model Kits!
